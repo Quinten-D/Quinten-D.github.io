@@ -135,7 +135,7 @@ main {
     background: #fff; /* White background for the item */
     width: 100%; /* Ensure the item takes full width of its grid cell */
     max-width: 200px; /* Limit maximum width of the painting item */
-    height: 200px; /* Fixed height to ensure uniformity */
+    height: 190px; /* Fixed height to ensure uniformity */
     box-sizing: border-box; /* Include padding and border in the element’s total width and height */
 }
 
@@ -284,11 +284,11 @@ main {
     }
 
     .painting-item {
-        height: 220px; /* Fixed height to ensure uniformity */
+        height: 205px; /* Fixed height to ensure uniformity */
     }
 
     .painting-item-horizontal-full {
-        height: 220px; /* Fixed height to ensure uniformity */
+        height: 205px; /* Fixed height to ensure uniformity */
         gap: 0px;
     }
 
@@ -305,9 +305,14 @@ main {
         font-size: 0.5em;
     }
 
+    .normal_center {
+        padding: 0px 15px; /* top and bottom and then left and right */
+    }
+
     .paintings-grid {
-        gap: 20px 10px; /* Vertical space of 20px and horizontal space of 10px */
+        gap: 10px 10px; /* Vertical space of 20px and horizontal space of 10px */
         width: 80%;
+        padding: 0px 0px 10px 0px; /* top, right, bottom, left */
     }
 
     header h1 {
