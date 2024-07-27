@@ -284,16 +284,16 @@ main {
     }
 
     .painting-item {
-        height: 205px; /* Fixed height to ensure uniformity */
+        height: 230px; /* Fixed height to ensure uniformity */
     }
 
     .painting-item-horizontal-full {
-        height: 205px; /* Fixed height to ensure uniformity */
+        height: 230px; /* Fixed height to ensure uniformity */
         gap: 0px;
     }
 
     .painting-item-horizontal {
-        height: 120px; /* Fixed height to ensure uniformity */
+        height: 135px; /* Fixed height to ensure uniformity */
         gap: 0px;
     }
 
