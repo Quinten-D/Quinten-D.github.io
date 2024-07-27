@@ -284,11 +284,11 @@ main {
     }
 
     .painting-item {
-        height: 200px; /* Fixed height to ensure uniformity */
+        height: 220px; /* Fixed height to ensure uniformity */
     }
 
     .painting-item-horizontal-full {
-        height: 200px; /* Fixed height to ensure uniformity */
+        height: 220px; /* Fixed height to ensure uniformity */
         gap: 0px;
     }
 
